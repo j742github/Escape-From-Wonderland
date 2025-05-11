@@ -1,0 +1,12 @@
+n|go north
+s|go south
+e|go east
+w|go west
+take|take item
+drop|drop item
+use|use item
+talk|talk to character
+ask|ask about item
+attack|attack character
+inventory|view inventory
+quit|quit game

@@ -1,0 +1,5 @@
+rabbit hole|You stand at the entrance of the rabbit hole. It's dark and mysterious.|north:hall of doors
+hall of doors|A long hallway with many locked doors.|east:tea party,west:forest
+tea party|A mad tea party with strange characters and endless riddles.|west:hall of doors,north:cheshire forest
+cheshire forest|A dense forest where the Cheshire Cat's grin lingers in the darkness.|south:tea party,east:red queen's court
+red queen's court|The menacing court where the Red Queen awaits her challengers.|west:cheshire forest

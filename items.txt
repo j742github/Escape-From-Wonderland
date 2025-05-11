@@ -1,0 +1,8 @@
+cake|Eat Me|Shrinks Alice
+potion|Drink Me|Enlarges Alice
+teapot|Tea Set|Used at the tea party
+flamingo mallet|Croquet Mallet|Used to challenge the Red Queen
+key|Small Key|Opens a secret door in the hall of doors
+mirror|Looking Glass|Shows visions of Wonderland
+map|Wonderland Map|Guides Alice through the maze
+rose|Red Rose|A token for safe passage through the Red Queen's court
