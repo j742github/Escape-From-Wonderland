@@ -16,10 +16,10 @@ Your goal? It's quite simple: survive Wonderland and escape.
 
 ## 📂 Files Included
 
-- `main.cpp`: The game logic and engine
+- `main.cpp`: The game logic and engine, fully documented for COMP 206 submission
 - `actions.txt`, `characters.txt`, `locations.txt`, `items.txt`: All game data
 
----
+
 
 
 ********
